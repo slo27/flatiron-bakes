@@ -1,5 +1,5 @@
 import CakeCard from "./CakeCard";
-import cakes from "./data";
+// import cakes from "./data";
 
 const cakes = [
   {
